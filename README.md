@@ -1,2 +1,2 @@
 # Projeto-Livraria-API
-API de uma livraria
+API de uma livraria desenvolvida em Adonis.
